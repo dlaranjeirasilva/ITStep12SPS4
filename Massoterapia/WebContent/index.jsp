@@ -98,14 +98,12 @@
 					<td><img src="html/images/spacer.gif" alt="" height="38" width="1"></td>
 				</tr>
 				<tr>
-					<td colspan="4" align="left" background="html/images/b_wel.jpg"
+					<td colspan="5" align="left" background="html/images/b_wel.jpg"
 						height="116" valign="top" width="242">
 						<p>
-							<span class="text1">WELCOME TO OUR CENTER </span><br>
-							consetetur sadipscing elitr, sed diam nonumy eirmod<br> <br>
-							invidunt ut labore Lorem ipsum dolor sit amet, conseter
-							sadipscing elitr, sed diam Lorem ipsum dolor sit amet <a href="#">take
-								tour now...</a>
+							<span class="text1">BEM VINDO AO MUNDO DE ALÍVIO!</span><br>
+							Centro de Massoterapia e Relaxamento<br> <br>
+							Conheça nossas instalações - <a href="#">Ver galeria.</a>
 						</p>
 					</td>
 					<td colspan="4" align="left" valign="top"><img
@@ -126,8 +124,8 @@
 					<td><img src="html/images/spacer.gif" alt="" height="46" width="1"></td>
 				</tr>
 				<tr>
-					<td colspan="3" rowspan="2"><img src="html/images/nw1.jpg" alt=""
-						height="57" width="218"></td>
+					<td colspan="3" rowspan="2"><img src="html/images/agendaexemplo.JPG" alt=""
+						height="80" width="200"></td>
 					<td rowspan="15"><img src="html/images/m9.jpg" alt="" height="408"
 						width="41"></td>
 					<td><img src="html/images/spacer.gif" alt="" height="13" width="1"></td>
