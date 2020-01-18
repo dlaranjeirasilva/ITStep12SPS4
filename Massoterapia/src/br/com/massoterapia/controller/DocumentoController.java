@@ -27,7 +27,6 @@ public class DocumentoController {
 		try {
 			documentos = documentoFacade.listarTodosDocumentos();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		

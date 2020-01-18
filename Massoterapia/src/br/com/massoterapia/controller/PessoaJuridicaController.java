@@ -27,7 +27,6 @@ public class PessoaJuridicaController {
 		try {
 			pjs = pjFacade.listarPJs();
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}		
 		
